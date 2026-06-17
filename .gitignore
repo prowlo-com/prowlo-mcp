@@ -1,0 +1,5 @@
+# Local MCP-registry publishing artifacts — never commit
+mcp-publisher
+key.pem
+.mcpregistry_*
+*.tar.gz
