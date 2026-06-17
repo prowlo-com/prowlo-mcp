@@ -1,0 +1,11 @@
+{
+  "_comment": "Fallback for clients that need a key instead of OAuth. Generate a key in Prowlo settings, then use the Authorization header. OAuth (no key) is the recommended path — see README.",
+  "mcpServers": {
+    "prowlo": {
+      "url": "https://api.prowlo.com/mcp",
+      "headers": {
+        "Authorization": "Bearer YOUR_PROWLO_API_KEY"
+      }
+    }
+  }
+}
