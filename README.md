@@ -1,5 +1,7 @@
 # Prowlo MCP — Reddit & X for AI agents
 
+[![smithery badge](https://smithery.ai/badge/egidijus-ambr/prowlo)](https://smithery.ai/servers/egidijus-ambr/prowlo)
+
 > **Hosted MCP server** that gives Claude, Cursor, Cline, or any MCP client clean, semantically-searchable **Reddit** and **X** data — crawled through residential proxies, **read-only**, with **no Reddit API credentials**.
 
 **Endpoint:** `https://api.prowlo.com/mcp`  ·  [Homepage](https://prowlo.com)  ·  [Setup docs](https://prowlo.com/docs/mcp-setup)  ·  Free 14-day trial, then $19/mo
