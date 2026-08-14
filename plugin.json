@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "prowlo",
+  "version": "1.0.1",
+  "description": "Reddit & X data for AI agents over MCP. Semantic search over a hosted, always-on social dataset — OAuth sign-in, no Reddit API keys, no scrapers.",
+  "author": { "name": "Egidijus A." },
+  "homepage": "https://prowlo.com",
+  "repository": "https://github.com/prowlo-com/prowlo-mcp",
+  "keywords": [
+    "reddit",
+    "x",
+    "twitter",
+    "mcp-server",
+    "social-listening",
+    "semantic-search",
+    "brand-monitoring",
+    "ai-agents"
+  ]
+}

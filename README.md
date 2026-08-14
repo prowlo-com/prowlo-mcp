@@ -2,7 +2,7 @@
 
 [![smithery badge](https://smithery.ai/badge/egidijus-ambr/prowlo)](https://smithery.ai/servers/egidijus-ambr/prowlo)
 
-> **Hosted MCP server** that gives Claude, Cursor, Cline, or any MCP client clean, semantically-searchable **Reddit** and **X** data — crawled through residential proxies, **read-only**, with **no Reddit API credentials**.
+> **Hosted MCP server** that gives Claude, Cursor, Cline, or any MCP client clean, semantically-searchable **Reddit** and **X** data — via Prowlo's own independent, hosted crawl, **read-only**, with **no Reddit API credentials**.
 
 **Endpoint:** `https://api.prowlo.com/mcp`  ·  [Homepage](https://prowlo.com)  ·  [Setup docs](https://prowlo.com/docs/mcp-setup)  ·  Free 14-day trial, then $19/mo
 
@@ -10,7 +10,7 @@
 
 ## Why a hosted Reddit MCP server?
 
-Most free Reddit MCP servers broke in 2026, when Reddit started returning `403` on the unauthenticated endpoints they relied on. Prowlo runs the whole pipeline for you — residential-proxy crawl, anti-bot, embeddings, and the MCP endpoint — so it keeps working. Connect once and your agent can **search, rank, and cite** Reddit (and X) over time, instead of taking a one-off peek that breaks next week.
+Most free Reddit MCP servers broke in 2026, when Reddit started returning `403` on the unauthenticated endpoints they relied on. Prowlo runs the whole pipeline for you — an independent hosted crawl, filtering, embeddings, and the MCP endpoint — so it keeps working. Connect once and your agent can **search, rank, and cite** Reddit (and X) over time, instead of taking a one-off peek that breaks next week.
 
 - **Semantic search** over a persistent **Dataset** (vector embeddings) — find by meaning, not keyword regex
 - **Clean typed JSON** — no HTML scraping, no Reddit API, no glue code
