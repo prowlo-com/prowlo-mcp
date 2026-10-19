@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "prowlo": {
+      "type": "http",
+      "url": "https://api.prowlo.com/mcp"
+    }
+  }
+}

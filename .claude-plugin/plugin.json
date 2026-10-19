@@ -1,0 +1,29 @@
+{
+  "name": "prowlo",
+  "displayName": "Prowlo",
+  "version": "1.1.0",
+  "description": "Hosted MCP server that gives your AI agent Reddit, X, Hacker News, Mastodon and RSS. Watch sources, search posts by meaning, get alerts. OAuth sign-in, read-only toward Reddit and X.",
+  "author": {
+    "name": "Prowlo",
+    "email": "support@prowlo.com",
+    "url": "https://prowlo.com"
+  },
+  "homepage": "https://prowlo.com/docs/mcp-setup",
+  "repository": "https://github.com/prowlo-com/prowlo-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "reddit",
+    "x",
+    "twitter",
+    "hacker-news",
+    "social-listening",
+    "semantic-search",
+    "brand-monitoring",
+    "ai-agents"
+  ],
+  "documentationUrl": "https://prowlo.com/docs/mcp-setup",
+  "privacyPolicyUrl": "https://prowlo.com/privacy",
+  "termsOfServiceUrl": "https://prowlo.com/terms"
+}
