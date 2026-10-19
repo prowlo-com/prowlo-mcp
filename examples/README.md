@@ -12,6 +12,6 @@ Every file here connects to the same hosted server: `https://api.prowlo.com/mcp`
 
 **OAuth first.** Leave out the `headers` block and the client opens a browser window to sign in to Prowlo. No key to copy or rotate.
 
-**API key fallback.** Create a key in your Prowlo settings and replace `YOUR_PROWLO_API_KEY`. Do not commit a real key.
+**API key fallback.** Create a key in your Prowlo settings and replace `YOUR_PROWLO_API_KEY`. Do not commit a real key. The `"type": "streamableHttp"` line in `with-api-key.json` is what Cline expects; for another client, use the transport name that client documents (for example `"http"` in VS Code).
 
 Claude (web, Desktop and mobile) does not need a config file at all: add `https://api.prowlo.com/mcp` as a custom connector. Claude Code uses one command. See the [main README](../README.md#connect-in-30-seconds).

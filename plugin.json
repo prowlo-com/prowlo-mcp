@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "prowlo",
   "version": "1.1.0",
-  "description": "Hosted MCP server that gives your AI agent Reddit, X, Hacker News, Mastodon and RSS. Watch sources, search posts by meaning, get alerts. OAuth sign-in, read-only toward Reddit and X.",
+  "description": "Hosted MCP server that gives your AI agent Reddit and Hacker News, plus Mastodon, RSS and X. Watch sources, search posts by meaning, get alerts. OAuth sign-in, read-only.",
   "author": {
     "name": "Prowlo",
     "email": "support@prowlo.com",

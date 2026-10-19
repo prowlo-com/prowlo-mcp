@@ -1,6 +1,7 @@
 {
   "mcpServers": {
     "prowlo": {
+      "type": "streamableHttp",
       "url": "https://api.prowlo.com/mcp",
       "headers": {
         "Authorization": "Bearer YOUR_PROWLO_API_KEY"
