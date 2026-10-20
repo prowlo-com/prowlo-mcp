@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "prowlo": {
+      "serverUrl": "https://api.prowlo.com/mcp"
+    }
+  }
+}

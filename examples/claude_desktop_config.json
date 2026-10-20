@@ -1,7 +1,12 @@
 {
   "mcpServers": {
     "prowlo": {
-      "url": "https://api.prowlo.com/mcp"
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://api.prowlo.com/mcp"
+      ]
     }
   }
 }
